@@ -6,6 +6,7 @@ uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
   Dialogs, Grids, DBGrids, DB, ZAbstractRODataset, ZAbstractDataset,
   ZDataset, ZAbstractConnection, ZConnection, StdCtrls;
+  {daus}
 
 type
   TForm1 = class(TForm)
